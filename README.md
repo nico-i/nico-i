@@ -16,10 +16,10 @@ I am Nico, a **full stack developer** from **Germany** 🌍
 
 ---
 <a href="https://github.com/nico-i?tab=repositories">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=nico-i&locale=en&line_height=23" alt="Nico's github stats"/>
+  <img align="top" src="https://github-stats-extended.vercel.app/api?username=nico-i&locale=en&line_height=23" alt="Nico's github stats"/>
 </a>
 <a href="https://github.com/nico-i?tab=repositories">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-i&exclude_repo=ismailinico.github.io&layout=compact&langs_count=10&hide_title=true&card_width=230" alt="My languages"/>
+  <img align="top" src="https://github-stats-extended.vercel.app/api?username=nico-i&exclude_repo=ismailinico.github.io&layout=compact&langs_count=10&hide_title=true&card_width=230" alt="My languages"/>
 </a>
 
 ---
